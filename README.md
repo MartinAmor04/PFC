@@ -39,6 +39,10 @@ En un mundo cada vez más digitalizado, la industria cosmética se encuentra en 
 
 Pasos para instalar el proyecto en diferentes plataformas o entornos.
 
+## Instalación <a name="instalación"></a>
+
+Características: comprar, vender...
+
 ## Uso <a name="uso"></a>
 
 Instrucciones sobre cómo utilizar el proyecto y ejemplos de código.
