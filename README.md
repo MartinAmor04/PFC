@@ -39,7 +39,7 @@ En un mundo cada vez más digitalizado, la industria cosmética se encuentra en 
 
 Pasos para instalar el proyecto en diferentes plataformas o entornos.
 
-## Instalación <a name="características"></a>
+## Características <a name="características"></a>
 
 Características: comprar, vender...
 
