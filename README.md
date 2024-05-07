@@ -35,9 +35,6 @@
 
 En un mundo cada vez más digitalizado, la industria cosmética se encuentra en constante evolución. Este proyecto tiene como objetivo crear un portal de compra-venta de productos cosméticos a través de Internet, proporcionando a los usuarios una plataforma intuitiva y segura para explorar, comprar y vender una amplia gama de productos relacionados con el cuidado personal y la belleza.
 
-Nuestro portal busca ofrecer una experiencia de compra única, donde los usuarios puedan acceder a una selección diversa de productos de las mejores marcas, desde maquillaje y productos para el cuidado de la piel hasta fragancias y accesorios de belleza. Además, brindaremos herramientas avanzadas de búsqueda y filtros personalizados para ayudar a los usuarios a encontrar rápidamente los productos que mejor se adapten a sus necesidades y preferencias.
-
-Con un enfoque en la calidad, la autenticidad y la satisfacción del cliente, nuestro portal se esfuerza por establecer relaciones sólidas con vendedores confiables y garantizar la autenticidad de todos los productos ofrecidos. Además, nos comprometemos a proporcionar un proceso de compra seguro y protegido, con opciones de pago flexibles y un servicio de atención al cliente excepcional para resolver cualquier consulta o problema que puedan surgir durante la experiencia de compra.
 ## Instalación <a name="instalación"></a>
 
 Pasos para instalar el proyecto en diferentes plataformas o entornos.
