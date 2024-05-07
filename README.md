@@ -22,29 +22,33 @@
   </div>
 </div>
 
-##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+# Índice
 
-*[Insignias](#insignias)
+1. [Introducción](#introducción)
+2. [Instalación](#instalación)
+3. [Uso](#uso)
+4. [Contribución](#contribución)
+5. [Licencia](#licencia)
 
-*[Índice](#índice)
+## Introducción <a name="introducción"></a>
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+Breve descripción del proyecto y su propósito.
 
-*[Estado del proyecto](#Estado-del-proyecto)
+## Instalación <a name="instalación"></a>
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+Pasos para instalar el proyecto en diferentes plataformas o entornos.
 
-*[Acceso al proyecto](#acceso-proyecto)
+## Uso <a name="uso"></a>
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+Instrucciones sobre cómo utilizar el proyecto y ejemplos de código.
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+## Contribución <a name="contribución"></a>
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+Información sobre cómo contribuir al proyecto, pautas para enviar solicitudes de extracción, etc.
 
-* [Licencia](#licencia)
+## Licencia <a name="licencia"></a>
 
-*[Conclusión](#conclusión)
+Información sobre la licencia del proyecto.
+
 
