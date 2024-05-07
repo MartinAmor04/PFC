@@ -1,2 +1,2 @@
 
-![logo](https://raw.githubusercontent.com/MartinAmor04/DWES/main/Pastel%20Green%20Minimalist%20Beauty%20Skincare%20Brand%20Logo.png)
+![logo](https://raw.githubusercontent.com/MartinAmor04/DWES/main/Captura%20de%20pantalla%202024-05-07%20085126.png)
