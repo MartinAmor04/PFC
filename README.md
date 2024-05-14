@@ -37,11 +37,15 @@ En un mundo cada vez más digitalizado, la industria cosmética se encuentra en 
 
 ## Instalación <a name="instalación"></a>
 
-Pasos para instalar el proyecto en diferentes plataformas o entornos.
+Clona el repositorio original:https://github.com/CampusDual/cd2024bfs1g1 , una vez lo tengas en tu ordenar abre el proyecto con tu IDE de preferencia, se recomienda usar IntelliJ IDEA para backend y Visual Studio Code para fronted. 
+
+Ya abierto configura la estructura del proyecto en IntelliJ, Java 11, y variables de entorno:spring.profiles.active=local en ServerApplication, ejecuta ahora sí ServerApplication, se lanzará en el puerto 8080 por defecto.
+
+Para el fronted ejecuta en la terminal de Visual Studio "npm install" para descargar todas las librerías, versiones y extensiones. Cuando haya terminado ejecuta "npm start" y listo!, se lanzará por defecto en el puerto 4299.
 
 ## Características <a name="características"></a>
 
-Características: comprar, vender...
+En este portal de comercio por Internet se permitirá a vendedores asociados a la página poder mostrar sus productos y ponerlos a disposición de los clientes. Además tendrán un apartado de pedidos donde tendrán seguimiento de todas las transacciones que han producido sus productos. Los clientes por su parte podrán navegar por la aplicación para encontrar sus podructos deseados, contarán con filtros y categorías para ayudarles en su búsqueda. La página principal contará con un apartado de productos destacados, en los que habrá vistas de productos más vendidos, con mayor oferta y añadidos recientemente.
 
 ## Uso <a name="uso"></a>
 
@@ -49,10 +53,12 @@ Instrucciones sobre cómo utilizar el proyecto y ejemplos de código.
 
 ## Contribución <a name="contribución"></a>
 
-Información sobre cómo contribuir al proyecto, pautas para enviar solicitudes de extracción, etc.
+Mi contribución abarca las ramas: sb_1,  sb_10,  sb_19,  sb_62,  sb_58
 
 ## Licencia <a name="licencia"></a>
 
-Información sobre la licencia del proyecto.
+        Apache License
+                       Version 2.0, January 2004
+                    http://www.apache.org/licenses/
 
 
