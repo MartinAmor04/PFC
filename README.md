@@ -27,8 +27,9 @@
 
 1. [Introducción](#introducción)
 2. [Instalación](#instalación)
-3. [Contribución](#contribución)
-4. [Licencia](#licencia)
+3. [Características](#características)
+4. [Contribución](#contribución)
+5. [Licencia](#licencia)
 
 ## Introducción <a name="introducción"></a>
 
