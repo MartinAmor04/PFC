@@ -49,7 +49,7 @@ En este portal de comercio por Internet se permitirá a vendedores asociados a l
 
 ## Contribución <a name="contribución"></a>
 
-Mi contribución abarca las ramas: sb_1,  sb_10,  sb_19,  sb_62,  sb_58, sb_58
+Mi contribución abarca las ramas: sb_1,  sb_10,  sb_19,  sb_62,  sb_58, sb_58, sb_100, sb_114
 
 ## Licencia <a name="licencia"></a>
 
